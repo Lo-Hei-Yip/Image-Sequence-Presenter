@@ -1,4 +1,4 @@
-# Image-Sequence-Presenter# Image Sequence Presenter
+# Image-Sequence-Presenter
 
 This repository contains a Python program designed for presenting a randomized sequence of PNG images (e.g., symbols like arrows) on a full-screen display. It is used in the Final Year Project (FYP) titled _Mind-to-Screen: EEG-Driven Symbol Generation for Assistive Communication_ by Lo Hei Yip (SID: 1155195182). The program's primary purpose is to generate a controlled visual stimulus sequence for acquiring EEG data during model training. It displays each image, followed by an "imagine" phase (black screen) where participants mentally visualize the symbol, and a rest phase. Timestamps for the imagine phase are logged to a CSV file for synchronization with EEG recordings from tools like the OpenBCI GUI.
 
