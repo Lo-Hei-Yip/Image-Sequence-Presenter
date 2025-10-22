@@ -84,7 +84,3 @@ These variables control the timing, image processing, and folder input without m
 5. **Cleanup**: Quits Pygame and prints a summary of processed images.
 
 This structure ensures reliable stimulus presentation and timing for EEG synchronization, making it suitable for neuroscience experiments.
-
-## Repository
-
-Available at: [https://github.com/Lo-Hei-Yip/Image-Sequence-Presenter](https://github.com/Lo-Hei-Yip/Image-Sequence-Presenter)
